@@ -1,5 +1,5 @@
 # Oleg Ivanov 
-<img src="/img/brussel_china.jpg" alt="just photo" style="width:300px">
+<img src="https://sun9-north.userapi.com/sun9-88/s/v1/if1/f3kfVuEjipcoEZ003P68d61cp8lfk7HUwMBNkbwHq3seGKhW83glXzqFtdjxF-JmCr46pWP_.jpg?size=1440x2160&quality=96&type=album" alt="just photo" style="width:300px">
 
 В настоящее время изучаю курс Java Developer. У меня  лежит к этому  душа и  все  получается легко.
 Образование у  меня это  уже четвертое и в  данный  момент я  работаю  руководителем  отдела в международной  компании, но собираюсь заниматься программированием и полностью перейти в IT сферу,  а  точнее сказать вернуться в неё.
